@@ -25,7 +25,8 @@ I have more than 10 years of experience in business automation in 1C. I want to 
 * SOQL
 
 ## Code Examples
-```//Java Script example
+```
+//Java Script example
 class AsyncArray extends Array{ 
     serialMap(transformFunc){
         const func = _async(function* (arr){
@@ -74,7 +75,8 @@ export const someAsyncAction = (el) => {
 
 export const oneMoreAsyncAction = (el) => {
     return new Promise((resolve) => {setTimeout(() => resolve(el*2), 2*1000)})
-};```
+};
+```
 
 ## Work Experience
 
@@ -82,16 +84,21 @@ export const oneMoreAsyncAction = (el) => {
 2. 3 years 1c 'Trade management' 
 3. 7 years 1c 'Accounting', 1c 'Salary and personnel management', Data exchanges.
 
-## Education (including completed courses and training)
+## Education
 * Belarusian State University
     Faculty of Radiophysics and Computer Technologies
     Bachelor's degree
 * Belarusian State University
     Master's degree
 * IPNK of the National Academy of Belarus
-    Master of Physical and Mathematical Sciences    
+    Master of Physical and Mathematical Sciences   
+* IT-Academy
+    Advanced JavaScript course 
 
-## English Language: 
+## English Language
 A2-B1
+
+## My completed projects 
+* https://github.com/iliakarabanov1990/rsschool-cv
 
 
