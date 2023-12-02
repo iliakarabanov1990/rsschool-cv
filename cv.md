@@ -1,28 +1,32 @@
 <img src="/files/MyPhoto.JPG" alt="my photo" style="width: 100px; height: auto; border-radius: 50%;padding: 5px">
 
-    **Karabanov Ilia**
+**Karabanov Ilia**
 
-## My contacts:
-    *phone: +375(33)353-11-19
-    *email: iliaKarabanov@gmail.com
+## My contacts
 
-## About me:
-    I have more than 10 years of experience in business automation in 1C. I want to improve and expand my developer skills and I have chosen a goal: to become a Salesforce developer.  
+* phone:    +375(33)353-11-19
+* email:    iliaKarabanov@gmail.com
+* discord:  ilia(@GitHub-iliakarabanov1990)
+
+## About me
+
+I have more than 10 years of experience in business automation in 1C. I want to improve and expand my developer skills and I have chosen a goal: to become a Salesforce developer.  
 
 ## My skills
-    * 1c
-    * Git
-    * HTML
-    * CSS
-    * JS
-    * TypeScript
-    * Apex
-    * SQL
 
+* 1c
+* Git
+* HTML
+* CSS
+* JS
+* TypeScript
+* Apex
+* SQL
+* SOQL
 
 ## Code Examples
-
-`class AsyncArray extends Array{ 
+```//Java Script example
+class AsyncArray extends Array{ 
     serialMap(transformFunc){
         const func = _async(function* (arr){
             const newArr = new AsyncArray();
@@ -70,7 +74,7 @@ export const someAsyncAction = (el) => {
 
 export const oneMoreAsyncAction = (el) => {
     return new Promise((resolve) => {setTimeout(() => resolve(el*2), 2*1000)})
-};`
+};```
 
 ## Work Experience
 
@@ -79,9 +83,15 @@ export const oneMoreAsyncAction = (el) => {
 3. 7 years 1c 'Accounting', 1c 'Salary and personnel management', Data exchanges.
 
 ## Education (including completed courses and training)
+* Belarusian State University
+    Faculty of Radiophysics and Computer Technologies
+    Bachelor's degree
+* Belarusian State University
+    Master's degree
+* IPNK of the National Academy of Belarus
+    Master of Physical and Mathematical Sciences    
 
-1. 
 ## English Language: 
-    A2-B1
+A2-B1
 
 
